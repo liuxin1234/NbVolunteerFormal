@@ -132,8 +132,6 @@ public class IndexActivity extends BaseActivity implements AMapLocationListener 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_index);
 
-        com.wanjian.sak.LayoutManager.init(IndexActivity.this);
-
         isLoginOrAccesssToken();
         isUpdate();
         //初始化shareSDK

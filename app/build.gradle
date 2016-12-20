@@ -67,6 +67,6 @@ dependencies {
     compile project(':htmlDialog')
     compile files('libs/activation.jar')
     testCompile 'junit:junit:4.12'
-    compile 'com.wanjian:sak:0.0.2'
+    
     compile 'com.zhy:autolayout:1.4.5'
 }
