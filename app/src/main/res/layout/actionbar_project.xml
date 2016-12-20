@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/actionbar_homepage_height"
+    android:background="@color/colorCyan"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageview_project_indicator"
+        android:layout_width="120px"
+        android:layout_height="120px"
+        android:layout_centerVertical="true"
+        android:layout_margin="48px"
+        android:src="@drawable/icon_indicator" />
+
+    <com.example.renhao.wevolunteer.view.AutoRadioGroup
+        android:id="@+id/radiogroup_project_projectswitch"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginEnd="48px"
+        android:layout_marginRight="48px"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radiobutton_project_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_radiobutton_activity"
+            android:button="@null"
+            android:checked="true"
+            android:paddingBottom="18px"
+            android:paddingLeft="54px"
+            android:paddingRight="54px"
+            android:paddingTop="18px"
+            android:text="岗位"
+            android:textColor="@color/colorCyan"
+            android:textSize="51px" />
+
+        <RadioButton
+            android:id="@+id/radiobutton_project_jobs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_radiobutton_jobs"
+            android:button="@null"
+            android:paddingBottom="18px"
+            android:paddingLeft="54px"
+            android:paddingRight="54px"
+            android:paddingTop="18px"
+            android:text="活动"
+            android:textColor="@color/colorWhite"
+            android:textSize="51px" />
+    </com.example.renhao.wevolunteer.view.AutoRadioGroup>
+
+    <ImageView
+        android:id="@+id/imageview_project_magnifier"
+        android:layout_width="@dimen/imageview_homepage_magnifierSize"
+        android:layout_height="@dimen/imageview_homepage_magnifierSize"
+        android:layout_alignEnd="@id/radiogroup_project_projectswitch"
+        android:layout_alignRight="@id/radiogroup_project_projectswitch"
+        android:layout_centerVertical="true"
+        android:padding="@dimen/imageview_backBTN_padding"
+        android:src="@drawable/magnifier" />
+</com.zhy.autolayout.AutoRelativeLayout>

@@ -1,0 +1,108 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--index activity-->
+    <dimen name="actionbar_homepage_height">180px</dimen>
+    <dimen name="textview_homepage_titlesize">54px</dimen>
+    <dimen name="textview_right_titlesize">48px</dimen>
+    <dimen name="imageview_backBTN_padding">30px</dimen>
+    <dimen name="imageview_homepage_scanSize">54px</dimen>
+    <dimen name="textview_homepage_scanSize">30px</dimen>
+    <dimen name="imageview_homepage_magnifierSize">120px</dimen>
+    <dimen name="actionbar_homepage_margin">48px</dimen>
+    <dimen name="bottombar_indexactivity_height">150px</dimen>
+    <dimen name="changeTv_indexactivity_size">12sp</dimen>
+
+    <!--homepage fragment-->
+    <dimen name="imageslider_homepage_height">160dp</dimen>
+    <dimen name="listitem_homepage_height">600px</dimen>
+    <dimen name="listitem_homepage_margin">24px</dimen>
+    <dimen name="textview_listview_textsizeBig">66px</dimen>
+    <dimen name="textview_listview_margin">24px</dimen>
+    <dimen name="textview_listview_textsize">42px</dimen>
+    <dimen name="textview_listview_textsizeSmall">30px</dimen>
+    <dimen name="textview_listview_paddingBig">15px</dimen>
+    <dimen name="textview_listview_paddingSmall">9px</dimen>
+    <dimen name="textview_listview_size">174px</dimen>
+    <dimen name="relative_gridebutton_height">140dp</dimen>
+    <dimen name="imageview_gridebutton_size">120px</dimen>
+    <dimen name="imageview_gridebutton_margintop">48px</dimen>
+    <dimen name="textview_gridebutton_margintop">15px</dimen>
+    <dimen name="tevtview_gridebutton_textsize">48px</dimen>
+    <dimen name="tevtview_gridebutton_textsizeSmall">39px</dimen>
+    <dimen name="textview_gridbutton_marginbottom">30px</dimen>
+
+    <dimen name="imageview_organizationitem_width">390px</dimen>
+    <dimen name="imageview_organizationitem_marginTB">30px</dimen>
+    <dimen name="imageview_organizationitem_marginLR">30px</dimen>
+    <dimen name="relative_organizationitem_height">300px</dimen>
+    <dimen name="tv_organizationitem_BigSize">50px</dimen>
+    <dimen name="tv_organizationitem_SmallSize">42px</dimen>
+
+    <!--project detail-->
+    <dimen name="project_detail_marginLR">30px</dimen>
+    <dimen name="project_detail_marginTB">48px</dimen>
+
+    <!--activity for personal-->
+    <dimen name="textview_submit_titlesize">48px</dimen>
+    <dimen name="imageview_item_Portrait_size">168px</dimen>
+    <dimen name="item_myPortrait_margintop">30px</dimen>
+    <dimen name="item_myUser_margintop">60px</dimen>
+    <dimen name="btn_personalData_quitLogin_margin">60px</dimen>
+    <dimen name="btn_personalData_quitLogin_marginTop">30px</dimen>
+    <dimen name="imageview_myproject_magnifierSize">60px</dimen>
+
+    <!--myProject-->
+    <dimen name="myProject_item_height">300px</dimen>
+    <dimen name="imageview_myproject_margin">24px</dimen>
+    <dimen name="imageview_myproject_item_width">300px</dimen>
+    <dimen name="imageview_myproject_item_height">210px</dimen>
+    <dimen name="myproject_item_marginTop">10dp</dimen>
+    <dimen name="textview_myproject_textsize">42px</dimen>
+    <dimen name="textview_myproject_time_textsize">36px</dimen>
+    <dimen name="textview_myproject_state_heigth">150px</dimen>
+    <dimen name="textview_myproject_state_width">30dp</dimen>
+    <dimen name="textview_myproject_width">540px</dimen>
+
+    <!--pop for personalData-->
+    <dimen name="btn_PD_POP_margin">10dp</dimen>
+    <dimen name="btn_PD_POP_margintop">4dp</dimen>
+    <dimen name="btn_PD_POP_marginbottom">6dp</dimen>
+    <dimen name="btn_PD_POP_textsize">16sp</dimen>
+
+    <!--PersonalFragment 一些margin在我的资料中有共用-->
+    <dimen name="top_height">576px</dimen>
+    <dimen name="textview_personal_name_size">60px</dimen>
+    <dimen name="textview_personal_specialty_size">36px</dimen>
+    <dimen name="textview_personal_integral_size">36px</dimen>
+    <dimen name="top_textview_margeintop">6dp</dimen>
+    <dimen name="top_portrait_margeintop">15dp</dimen>
+    <dimen name="circleImageView_portrait_height">192px</dimen>
+    <dimen name="circleImageView_portrait_width">192px</dimen>
+    <dimen name="circleImageView_portrait_margintop">15dp</dimen>
+    <dimen name="imageview_stars_height">12dp</dimen>
+    <dimen name="imageview_stars_width">12dp</dimen>
+    <dimen name="textview_personal_middle_main_size">39px</dimen>
+    <dimen name="textview_personal_middle_hint_size">27px</dimen>
+    <dimen name="textview_middle_main_margintop">60px</dimen>
+    <dimen name="textview_middle_hint_margintop">9px</dimen>
+    <dimen name="middle_circle_width">240px</dimen>
+    <dimen name="middle_circle_height">240px</dimen>
+    <dimen name="middle_circle_marginleft">24px</dimen>
+    <dimen name="middle_circle_margintop">36px</dimen>
+    <dimen name="middle_circle_marginbottom">36px</dimen>
+    <dimen name="bottom_item_height">150px</dimen>
+    <dimen name="bottom_portrait_item_height">192px</dimen>
+    <dimen name="textview_bottom_left_size">42px</dimen>
+    <dimen name="textview_bottom_left_marginleft">12px</dimen>
+    <dimen name="text_left_padding">30px</dimen>
+    <dimen name="textview_bottom_right_size">48px</dimen>
+    <dimen name="textview_bottom_right_marginright">12px</dimen>
+    <dimen name="layout_bottom_aboutUS_margintop">60px</dimen>
+    <dimen name="layout_bottom_bottom_marginbottom">30px</dimen>
+    <dimen name="imageview_bottom_mark_marginright">15px</dimen>
+    <dimen name="imageview_bottom_mark_size">75px</dimen>
+    <dimen name="top_item_margeintop">21px</dimen>
+</resources>

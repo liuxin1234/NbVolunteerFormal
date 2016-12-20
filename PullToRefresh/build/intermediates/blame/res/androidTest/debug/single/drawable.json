@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\NbVolunteerTest\\NbVolunteerAndroid\\PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\NbVolunteerTest\\NbVolunteerAndroid\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\WeVolunteerApp\\NbVolunteerAndroid2016-9-27\\NbVolunteerAndroid\\PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\WeVolunteerApp\\NbVolunteerAndroid2016-9-27\\NbVolunteerAndroid\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\WeVolunteerApp\\NbVolunteerAndroid2016-9-27\\NbVolunteerAndroid\\PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\WeVolunteerApp\\NbVolunteerAndroid2016-9-27\\NbVolunteerAndroid\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\NbVolunteerTest\\NbVolunteerAndroid\\PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\NbVolunteerTest\\NbVolunteerAndroid\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\MyWorkTest\\NbVolunteerFormal\\PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\MyWorkTest\\NbVolunteerFormal\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\MyWorkTest\\NbVolunteerFormal\\PullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\MyWorkTest\\NbVolunteerFormal\\PullToRefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]

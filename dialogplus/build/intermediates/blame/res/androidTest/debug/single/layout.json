@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\WeVolunteerApp\\NbVolunteerAndroid2016-9-27\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_grid.xml",
+        "source": "E:\\WeVolunteerApp\\NbVolunteerAndroid2016-9-27\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_grid.xml"
+    },
+    {
+        "merged": "F:\\NbVolunteerTest\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_container.xml",
+        "source": "F:\\NbVolunteerTest\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\bundles\\debug\\res\\layout\\base_container.xml"
+    },
+    {
+        "merged": "E:\\MyWorkTest\\NbVolunteerFormal\\dialogplus\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_container.xml",
+        "source": "E:\\MyWorkTest\\NbVolunteerFormal\\dialogplus\\build\\intermediates\\bundles\\debug\\res\\layout\\base_container.xml"
+    },
+    {
+        "merged": "E:\\MyWorkTest\\NbVolunteerFormal\\dialogplus\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_list.xml",
+        "source": "E:\\MyWorkTest\\NbVolunteerFormal\\dialogplus\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_list.xml"
+    },
+    {
+        "merged": "E:\\WeVolunteerApp\\NbVolunteerAndroid2016-9-27\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_list.xml",
+        "source": "E:\\WeVolunteerApp\\NbVolunteerAndroid2016-9-27\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_list.xml"
+    },
+    {
+        "merged": "E:\\WeVolunteerApp\\NbVolunteerAndroid2016-9-27\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_container.xml",
+        "source": "E:\\WeVolunteerApp\\NbVolunteerAndroid2016-9-27\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\bundles\\debug\\res\\layout\\base_container.xml"
+    },
+    {
+        "merged": "E:\\WeVolunteerApp\\NbVolunteerAndroid2016-9-27\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_view.xml",
+        "source": "E:\\WeVolunteerApp\\NbVolunteerAndroid2016-9-27\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_view.xml"
+    },
+    {
+        "merged": "F:\\NbVolunteerTest\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_view.xml",
+        "source": "F:\\NbVolunteerTest\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_view.xml"
+    },
+    {
+        "merged": "E:\\MyWorkTest\\NbVolunteerFormal\\dialogplus\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_grid.xml",
+        "source": "E:\\MyWorkTest\\NbVolunteerFormal\\dialogplus\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_grid.xml"
+    },
+    {
+        "merged": "F:\\NbVolunteerTest\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_grid.xml",
+        "source": "F:\\NbVolunteerTest\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_grid.xml"
+    },
+    {
+        "merged": "F:\\NbVolunteerTest\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_list.xml",
+        "source": "F:\\NbVolunteerTest\\NbVolunteerAndroid\\dialogplus\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_list.xml"
+    },
+    {
+        "merged": "E:\\MyWorkTest\\NbVolunteerFormal\\dialogplus\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_view.xml",
+        "source": "E:\\MyWorkTest\\NbVolunteerFormal\\dialogplus\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_view.xml"
+    }
+]
